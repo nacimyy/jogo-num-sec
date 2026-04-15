@@ -36,4 +36,13 @@ Este projeto foi desenvolvido com foco na prática de lógica de programação e
 
 👉 https://jogo-seven-silk.vercel.app
 
+---
 
+## 📚 Contexto acadêmico
+
+Projeto desenvolvido durante o curso de Introdução à Lógica de Programação com JavaScript, com o objetivo de praticar:
+
+Estruturas condicionais
+Variáveis e operadores
+Interação com o usuário
+Lógica de comparação
